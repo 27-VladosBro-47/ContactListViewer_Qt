@@ -1,0 +1,100 @@
+{
+  "Contacts": [
+    {
+      "name": "Vladyslav",
+      "surname": "Levchuk",
+      "phone": "+380983517283",
+      "photo": "ph0.png"
+    },
+    {
+      "name": "Wernher",
+      "surname": "Braun",
+      "phone": "+49658368472",
+      "photo": "ph1.png"
+    },
+    {
+      "name": "Franklin",
+      "surname": "Roosevelt",
+      "phone": "+12028578432",
+      "photo": "ph2.png"
+    },
+    {
+      "name": "Francisco",
+      "surname": "Franco",
+      "phone": "+347594720593",
+      "photo": "ph3.png"
+    },
+    {
+      "name": "Volodymir",
+      "surname": "Vernadsky",
+      "phone": "+380987362931",
+      "photo": "ph4.png"
+    },
+    {
+      "name": "Mykhailo",
+      "surname": "Hrushevsky",
+      "phone": "+380964938721",
+      "photo": "ph5.png"
+    },
+    {
+      "name": "Symon",
+      "surname": "Petliura",
+      "phone": "+380983674027",
+      "photo": "ph6.png"
+    },
+    {
+      "name": "Pavlo",
+      "surname": "Skoropadskyi",
+      "phone": "+380983517283",
+      "photo": "ph7.png"
+    },
+    {
+      "name": "Yevhen",
+      "surname": "Petrushevych",
+      "phone": "+380987650182",
+      "photo": "ph8.png"
+    },
+    {
+      "name": "Abraham",
+      "surname": "Lincoln",
+      "phone": "+140247352843",
+      "photo": "ph9.png"
+    },
+    {
+      "name": "Friedrich",
+      "surname": "Wilhelm",
+      "phone": "+490948271374",
+      "photo": "ph10.png"
+    },
+    {
+      "name": "Bohdan",
+      "surname": "Khmelnytsky",
+      "phone": "+380975635192",
+      "photo": "ph11.png"
+    },
+    {
+      "name": "Charles",
+      "surname": "de Gaulle",
+      "phone": "+330976409731",
+      "photo": "ph12.png"
+    },
+    {
+      "name": "Edward",
+      "surname": "Jenner",
+      "phone": "+446739583672",
+      "photo": "ph13.png"
+    },
+    {
+      "name": "Frank",
+      "surname": "Rosenblatt",
+      "phone": "+13054678780",
+      "photo": "ph14.png"
+    },
+    {
+      "name": "Sergiy",
+      "surname": "Korolev",
+      "phone": "+380977640173",
+      "photo": "ph15.png"
+    }
+  ]
+}
